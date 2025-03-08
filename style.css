@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 30px;
+    transition: cubic-bezier(0.165, 0.84, 0.44, 1) 0.3s;
+    
+}
+p
+{
+    height: 1000px;
+    width: 1000px;
+    background-color: red;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
